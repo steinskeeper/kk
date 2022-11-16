@@ -4,11 +4,12 @@ Public Repo for the submission of final project for HackZon 2022
 
 ## Description
 
-Resume is one of the most important elements in a person’s profile in his/her career. This 
-project focuses on artificially building a full-fledged, comprehensive, and a dynamic 
-resume for the user just by inputting his/her details. The resume will comprise of action 
-verbs along with number metrics in complete sentences to exhibit the complete potential 
-of the user.
+We believe that everyone has the potential to be happy, but we know that most people aren't there yet. 
+That's where AURORA comes in: 
+
+We believe that mental health should be personalized and tailored to each individual's needs. 
+Personality can have a huge impact on your mental well-being, So we start by taking a personality test, which will help us get to know you better. We use your personality test results to help you find journeys or solutions which are paths from people who have gone through the same thing you're going through and have the same personality as yours.
+Coming to the most remarkable aspect of this app, you can monitor people's life journeys, which means you can see what issues they are encountering on their journey towards mental well-being and how they are resolving their problems, which you may connect to and encourage you to do better. For the convenience of the user, the live journey's summary is also provided. Additionally, a mood chart is built depending on the user's input in the journey section to effectively track the user's mood
 
 
 ## Steps to execute and use the project
@@ -19,12 +20,45 @@ of the user.
 3. Run `npm start` on the terminal that has `aurora-backend` opened.
 4. Run `npm run dev` on `aurora-frontend` terminal
 5. Open browser and go to [https://localhost:5173/#/signup](https://localhost:5173/#/signup)
-6. Register a new user
-7. Take the personality test
-8. Start a Journey
-9. View Journeys
+6. Go to Developer tools on browser and turn on the toggle device settings to mobile view like in the picture
+![Screenshot from 2022-11-16 22-30-10](https://user-images.githubusercontent.com/46066748/202245204-0bc779c4-4040-4533-8091-5fe81b299c9d.png)
+7. Register a new user
+8. Take the personality test
+9. Start a Journey
+10. View Journeys
 
 ## Screenshot
-![hOME](https://user-images.githubusercontent.com/71288789/202185535-0a20f5bf-1167-4feb-8700-c454bdad52d8.PNG)
 
-![aBOUT S](https://user-images.githubusercontent.com/71288789/202185606-2d3adfc2-a0be-4ac7-9542-b71f591c1093.PNG)
+
+
+![signup](https://github.com/steinskeeper/Hackzon-2022-Can-I-get-a-hawyeah/blob/main/images/signup.png)
+
+Sign Up
+
+![personality](https://github.com/steinskeeper/Hackzon-2022-Can-I-get-a-hawyeah/blob/main/images/personality%20test.png)
+
+Personality Test
+
+![home](https://github.com/steinskeeper/Hackzon-2022-Can-I-get-a-hawyeah/blob/main/images/home.png)
+
+Home
+
+![start-journey](https://github.com/steinskeeper/Hackzon-2022-Can-I-get-a-hawyeah/blob/main/images/start-journey.png)
+
+Start Journey
+
+![story](https://github.com/steinskeeper/Hackzon-2022-Can-I-get-a-hawyeah/blob/main/images/story.png)
+
+Add a story
+
+![read-journey](https://github.com/steinskeeper/Hackzon-2022-Can-I-get-a-hawyeah/blob/main/images/read%20journey.png)
+
+Read Journeys
+
+
+
+
+
+
+
+
